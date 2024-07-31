@@ -1,0 +1,5 @@
+6bda6629e3751255206643a169e609d9ac20dd5e9d16e998e19ad994829b3993
+# disable block of previously supported official vgpu cards
+# this is inspired by vgpud patch from PolloLoco - thank you!
+00003498: 39 09
+2b282ceed05c9944156ca5d3c4d128821b01f831073b440c637002ba8c5d52c0
